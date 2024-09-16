@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: Techno Dreams
+title: IDreamInTechno
 
 # Your name to show in the footer
-author: technodreams
+author: IDreamInTechno
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  CTF: 
+  CTF Writeups: 
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+ # Blogposts:
+ #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -32,10 +32,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/texh.png"
+#avatar: "/assets/img/texh.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -53,7 +53,7 @@ social-network-links:
  # email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
  # facebook: deanattali
-  github: technodreams
+  github: idreamintechno
  # twitter: daattali
  # patreon: DeanAttali
 # youtube: "@daattali"
@@ -133,14 +133,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
+page-col: "black"
+text-col: "white"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+navbar-col: "black"
+navbar-text-col: "#white"
+navbar-border-col: lightblue
+footer-col: black
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"

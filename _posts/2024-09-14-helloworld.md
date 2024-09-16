@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 tags: [test]
 comments: false
 mathjax: true
-author: technodreamss
+author: idreamintechno
 ---
 
 First test post
