@@ -7,7 +7,7 @@ tags: [test]
 comments: false
 mathjax: true
 author: OSINTQueen
-cover-img: https://www.vatcalc.com/wp-content/uploads/Tax-engine-2-scaled-1920x960.jpg
+cover-img: assets/img/logo.png
 ---
 
 First test post
