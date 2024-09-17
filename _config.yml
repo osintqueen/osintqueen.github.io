@@ -20,7 +20,7 @@ author: OSINTQueen
 ###############################################
 
 navbar-links:
-  CTF Writeups: 
+  CTF Writeups: https://medium.com/@osintqueen
   About Me: "aboutme"
  # Blogposts:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -57,7 +57,7 @@ social-network-links:
  # twitter: daattali
  # patreon: DeanAttali
 # youtube: "@daattali"
-#  medium: yourname
+  medium: osintqueen
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
