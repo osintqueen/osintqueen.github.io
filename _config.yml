@@ -20,7 +20,7 @@ author: OSINTQueen
 ###############################################
 
 navbar-links:
-  CTF Writeups: https://medium.com/@osintqueen
+  CTF Writeups: /tags/#ctf
   About Me: "aboutme"
  # Blogposts:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -84,7 +84,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Cybersecurity Blog
 
 ###########################
 # --- General options --- #
@@ -117,7 +117,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -125,7 +125,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "OSINT,Cybersecurity,CTF,Security Awareness"
 
 ######################################
 # --- Colours / background image --- #
@@ -134,7 +134,7 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "white"
-text-col: "#4325be"
+text-col: "black"
 link-col: "#008AFF"
 hover-col: "purple"
 navbar-col: "white"
